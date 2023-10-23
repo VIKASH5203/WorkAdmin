@@ -1,7 +1,7 @@
 .gridContainer{
     display: flex;
-   
-    align-items: center;
+    align-items:flex-end;
     margin-top: 20px;
     margin-left: 10px;
+
 }

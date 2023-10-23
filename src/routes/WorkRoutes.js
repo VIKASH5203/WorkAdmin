@@ -1,6 +1,6 @@
 import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import Dashboard from '../Dashboard'
+import Dashboard from '../pages/dashboard/Dashboard'
 
 const WorkRoutes = () => {
     return (
